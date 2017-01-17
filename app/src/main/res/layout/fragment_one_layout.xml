@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="400dp"
+    android:layout_gravity="center"
+    tools:context="com.example.kp.exo03_frament.FragmentOne"
+    android:background="@color/colorPrimaryDark"
+
+    android:weightSum="1">
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+</RelativeLayout>
